@@ -39,5 +39,5 @@ def conta_palavra_por_livro():
     return dicionariozao
 
 
-conta_palavra_por_livro()
+print(conta_palavra_por_livro())
 # dicionario [id =, lista(nome, count)]
